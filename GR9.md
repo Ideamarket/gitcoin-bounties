@@ -18,7 +18,7 @@ Welcome to the Ideamarket GR9 Hackathon! Below you can find all the resources to
   - `mainnet`: https://subgraph.backend.ideamarket.io:8080/subgraphs/name/Ideamarket/Ideamarket
   - `rinkeby`: https://subgraph-rinkeby.backend.ideamarket.io:8080/subgraphs/name/Ideamarket/IdeamarketRINKEBY
 
-  For further technical documentation on how altering and querying the subgraph see the official [The Graph](https://thegraph.com/docs/introduction#what-the-graph-is) documentation.
+  For further technical documentation on altering and querying the subgraph see the official [The Graph](https://thegraph.com/docs/introduction#what-the-graph-is) documentation.
   
 - **Frontend**: The ideamarket.io frontend is not yet open source. Should your submission require changes to the frontend, please create a mini-frontend (preferably in React) to showcase your submission.
 
