@@ -10,7 +10,7 @@ Welcome to the Ideamarket GR9 Hackathon! Below you can find all the resources to
   
   See the [README](https://github.com/Ideamarket/ideamarket-contracts/blob/master/README.md) for more information regarding the repository's structure. Further technical documentation is available in our [technical documentation](https://docs.ideamarket.io/contracts/overview).
 
-  There are three different networks for the Ideamarket contracts as can be seen in the `deployed` folder: `mainnet`, `rinkeby`, and `test`. Please do not use the `test` network as we are using them for internal development purposes which makes them unstable and prone to unannounced change. For development you can either use the contracts deployed on `rinkeby` or deploy the contracts yourself to a network of your choice.
+  There are three different networks for the Ideamarket contracts as can be seen in the `deployed` folder: `mainnet`, `rinkeby`, and `test`. Please do not use the `test` network as we are using it for internal development purposes which makes it unstable and prone to unannounced change. For development you can either use the contracts deployed on `rinkeby` or deploy the contracts yourself to a network of your choice.
   
 - **Subgraph**: The subgraph is available in the [subgraph](https://github.com/Ideamarket/subgraph) repository.
 
