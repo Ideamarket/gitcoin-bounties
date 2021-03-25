@@ -15,8 +15,8 @@ Welcome to the Ideamarket GR9 Hackathon! Below you can find all the resources to
 - **Subgraph**: The subgraph is available in the [subgraph](https://github.com/Ideamarket/subgraph) repository.
 
   Public API endpoints (supporting *GraphiQL*):
-  - `mainnet`: https://subgraph.backend.ideamarket.io:8080/subgraphs/name/Ideamarket/Ideamarket
-  - `rinkeby`: https://subgraph-rinkeby.backend.ideamarket.io:8080/subgraphs/name/Ideamarket/IdeamarketRINKEBY
+  - `mainnet`: https://subgraph.backend.ideamarket.io/subgraphs/name/Ideamarket/Ideamarket
+  - `rinkeby`: https://subgraph-rinkeby.backend.ideamarket.io/subgraphs/name/Ideamarket/IdeamarketRINKEBY
 
   For further technical documentation on altering and querying the subgraph see the official [The Graph](https://thegraph.com/docs/introduction#what-the-graph-is) documentation.
   
